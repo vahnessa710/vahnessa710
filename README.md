@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**vahnessa710/vahnessa710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vahnessa, a full-stack developer based in the Philippines. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools & Tech
+
+Frontend:
+● React, JavaScript, HTML, CSS, Tailwind CSS
+
+Backend:
+●  Ruby on Rails (API & Full MVC), PostgreSQL, RESTful architecture
+
+Testing:
+●  RSpec, Jest
+
+---
+
+Fun Facts:
+
+● Before tech, I started as a barista and eventually ran my own café — battle-tested in operations, optimization, and making things work under pressure.
+● I'm a dog and cat person.
