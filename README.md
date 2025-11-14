@@ -2,7 +2,7 @@
 
 I'm Vahnessa, a full-stack developer based in the Philippines. 
 
----
+<hr style="border: 0; border-top: 1px solid #ddd;" />
 
 Tools & Tech
 
@@ -15,7 +15,7 @@ Backend:
 Testing:
 ●  RSpec, Jest
 
----
+<hr style="border: 0; border-top: 1px solid #ddd;" />
 
 Fun Facts:
 
