@@ -11,11 +11,11 @@ I'm Vahnessa, a full-stack developer based in the Philippines.
     
     Backend:
     
-      ●  Ruby on Rails (API & Full MVC), PostgreSQL, RESTful architecture
+      ● Ruby on Rails (API & Full MVC), PostgreSQL, RESTful architecture
     
     Testing:
     
-      ●  RSpec, Jest
+      ● RSpec, Jest
 
 🫡 Fun Facts:
 
