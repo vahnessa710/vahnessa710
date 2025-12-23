@@ -19,5 +19,5 @@ I'm Vahnessa, a full-stack developer based in the Philippines.
 
 🫡 Fun Facts:
 
-    ● Before tech, I started as a barista and eventually ran my own café — battle-tested in operations, optimization, and making things work under pressure.
+    ● Before tech, I ran my own café. I'm battle-tested in operations, optimization, and making things work under pressure.
     ● I'm a dog and cat person.
